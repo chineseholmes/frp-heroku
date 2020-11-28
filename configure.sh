@@ -18,4 +18,4 @@ vhost_http_port = 80
 EOF
 
 # Run Frp
-/usr/local/bin/frp -c /usr/local/etc/frp/frps.ini
+/usr/local/bin/frps -c /usr/local/etc/frp/frps.ini
