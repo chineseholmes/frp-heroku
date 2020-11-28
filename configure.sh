@@ -13,7 +13,7 @@ rm -rf /tmp/frp
 install -d /usr/local/etc/frp
 cat << EOF > /usr/local/etc/frp/frps.ini
 [common]
-bind_port = $FRPPORT
+bind_port = $PORT
 vhost_http_port = 80
 EOF
 
