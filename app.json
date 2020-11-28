@@ -5,7 +5,7 @@
     "env": {
         "FRPPORT": {
             "description": "Frp Port",
-            "value": "7000"
+            "value": 7000
         }
     },
     "website": "https://github.com/vvvbbbcz",
