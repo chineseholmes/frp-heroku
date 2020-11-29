@@ -2,12 +2,6 @@
     "name": "Frp",
     "description": "Deploy Frp on Heroku.",
     "keywords": ["Frp"],
-    "env": {
-        "FRPPORT": {
-            "description": "Frp port",
-            "value": 7000
-        }
-    },
     "website": "https://github.com/vvvbbbcz",
     "repository": "https://github.com/vvvbbbcz/frp-heroku",
     "stack": "container"
